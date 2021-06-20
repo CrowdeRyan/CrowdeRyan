@@ -18,6 +18,8 @@ In my current course of Boot-camp training, I find a new challenge in learn to c
 
 So far my path has taught me [insert list of skills I am expected to learn in this class], but the future is full of unexpected and diverse new challenges. However, there are some things that will always be needed, always be necessary: Fulfilling the roles of the individual in order for the whole group to succeed: I have been the lead: making the calls and directing the action – I have been the troubleshooter: doing the groundwork and preparing the contingences – I have been the planner: conceptualizing, adapting, and realizing – I have been the backstop: filling-in, putting in the hours, and making sure completion is a functional reality. All require an adaptable, creative mind with strong communication skills and a solid work ethic.
 
+https://crowderyan.github.io/Portfolio/
+
 <!--
 **CrowdeRyan/CrowdeRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
