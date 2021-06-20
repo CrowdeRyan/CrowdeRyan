@@ -1,5 +1,13 @@
 <img src="./images/R.jpg" width="100"/> My name is Ryan Crowder, and I am presenting to you my skills, my experience, and my character for your consideration. But, what you really want to know is how any of this benefits you and your organization; and that all comes down to getting a job done, or in other words, project management.
 
+<table>
+  <tr>
+    <td><a href="mailto:rebuiltrival@gmail.com" hspace="20">Email Me</a></td>
+    <td><a href="https://crowderyan.github.io/Portfolio/">Check Me Out</a></td>
+  </tr>
+ </table>
+
+
 <p align="center">
   <img width="200" src="https://cdn.vox-cdn.com/uploads/chorus_image/image/52555373/PaladinsLogo.svg.0.png" alt="furman logo">
 </p>
