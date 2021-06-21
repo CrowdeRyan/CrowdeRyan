@@ -1,32 +1,30 @@
-<img src="./images/R.jpg" width="100"/> My name is Ryan Crowder, and I am presenting to you my skills, my experience, and my character for your consideration. But, what you really want to know is how any of this benefits you and your organization; and that all comes down to getting a job done, or in other words, project management.
-
 <table>
-  <tr>
-    <td><a href="mailto:rebuiltrival@gmail.com" hspace="20">Email Me</a></td>
-    <td><a href="https://crowderyan.github.io/Portfolio/">Check Me Out</a></td>
+  <tr><td><img src="./images/R.jpg" width="500"/></td>
+  <td> My name is Ryan Crowder, and I am presenting to you my skills, my experience, and my character for your consideration. But, what you really want to know is how any of this benefits you and your organization; and that all comes down to getting a job done, or in other words, project management.</td>
   </tr>
  </table>
 
+<table>
+  <tr><td><img width="350" src="https://cdn.vox-cdn.com/uploads/chorus_image/image/52555373/PaladinsLogo.svg.0.png" alt="furman logo"></td>
+  <td> At Furman University, I studied mass communications, but my passion was the campus, closed-circuit TV station, of which I served as Executive director for two years. I learned many lessons about leadership and utilizing a team’s strengths and weaknesses by try to organize a group of college who all would rather be sleeping off last night’s festivities than finishing an assignment or sitting in front of a computer.</td>
+  </tr>
+  </table>
 
-<p align="center">
-  <img width="200" src="https://cdn.vox-cdn.com/uploads/chorus_image/image/52555373/PaladinsLogo.svg.0.png" alt="furman logo">
-</p>
+<table>
+  <tr><td><img width="300" src="https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/4003/s300/uncc-switchup-thumbnail-a.png" alt="Bootcamp logo"></td>
+  <td>In my current course of Boot-camp training, I find a new challenge in learn to code that drives me forward, but the people and interactions are steadying familiarity that serve as my foundation. Group projects, mini-projects, homework assignments — some are solitary works, some are collaborative. </td>
+  </tr>
+  </table>
 
-At Furman University, I studied mass communications, but my passion was the campus, closed-circuit TV station, of which I served as Executive director for two years. I learned many lessons about leadership and utilizing a team’s strengths and weaknesses by try to organize a group of college who all would rather be sleeping off last night’s festivities than finishing an assignment or sitting in front of a computer.
+<table>
+  <tr><td><img width="900" src="./images/techback.jpg" alt="Work Station"></td>
+  <td>So far my path has taught me [insert list of skills I am expected to learn in this class], but the future is full of unexpected and diverse new challenges. However, there are some things that will always be needed, always be necessary: Fulfilling the roles of the individual in order for the whole group to succeed: I have been the lead: making the calls and directing the action – I have been the troubleshooter: doing the groundwork and preparing the contingences – I have been the planner: conceptualizing, adapting, and realizing – I have been the backstop: filling-in, putting in the hours, and making sure completion is a functional reality. All require an adaptable, creative mind with strong communication skills and a solid work ethic. </td>
+  </tr>
+  </table>
 
-<p align="center">
-  <img width="200" src="https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/4003/s300/uncc-switchup-thumbnail-a.png" alt="Bootcamp logo">
-</p>
+<a href="mailto:rebuiltrival@gmail.com">Email Me</a>
 
-In my current course of Boot-camp training, I find a new challenge in learn to code that drives me forward, but the people and interactions are steadying familiarity that serve as my foundation. Group projects, mini-projects, homework assignments — some are solitary works, some are collaborative.
-
-<p align="center">
-  <img width="200" src="./images/techback.jpg" alt="Work Station">
-</p>
-
-So far my path has taught me [insert list of skills I am expected to learn in this class], but the future is full of unexpected and diverse new challenges. However, there are some things that will always be needed, always be necessary: Fulfilling the roles of the individual in order for the whole group to succeed: I have been the lead: making the calls and directing the action – I have been the troubleshooter: doing the groundwork and preparing the contingences – I have been the planner: conceptualizing, adapting, and realizing – I have been the backstop: filling-in, putting in the hours, and making sure completion is a functional reality. All require an adaptable, creative mind with strong communication skills and a solid work ethic.
-
-https://crowderyan.github.io/Portfolio/
+<a href="https://crowderyan.github.io/Portfolio/">Check Me Out</a>
 
 <!--
 **CrowdeRyan/CrowdeRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
