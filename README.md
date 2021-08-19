@@ -1,3 +1,18 @@
+<a href="https://github.com/CrowdeRyan/CrowdeRyan">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crowderyan&show=java,html,css,tex&title_color=57A6FF&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1116&border_color=57A6FF&langs_count=3" />
+</a>
+
+<a href="https://github.com/Crowderyan">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Crowderyan&line_height=27&count_private=false&title_color=57A6FF&text_color=c9cacc&icon_color=57A6FF&bg_color=0D1116&border_color=57A6FF" alt="Daniel's Github Statistics"/>
+</a>
+
+
+<br>
+<br>
+<br>
+
+
+
 <table>
   <tr><td><img src="./images/R.jpg" width="500"/></td>
   <td> My name is Ryan Crowder, and I am presenting to you my skills, my experience, and my character for your consideration. But, what you really want to know is how any of this benefits you and your organization; and that all comes down to getting a job done, or in other words, project management.</td>
