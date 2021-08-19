@@ -43,7 +43,7 @@
 
 <a href="mailto:rebuiltrival@gmail.com">Email Me</a>
 
-<a href="https://crowderyan.github.io/Portfolio/">Check Me Out</a>
+<a href="https://crowderyan.github.io/Portfolio/">Check Out My Portfolio</a>
 
 <!--
 **CrowdeRyan/CrowdeRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
