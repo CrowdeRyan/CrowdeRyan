@@ -45,6 +45,8 @@
 
 <a href="https://crowderyan.github.io/React-Portfolio/">Check Out My Portfolio</a>
 
+<a href="https://www.linkedin.com/in/ryan-crowder-487348209/">View My LinkedIn</a>
+
 <!--
 **CrowdeRyan/CrowdeRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
